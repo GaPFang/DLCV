@@ -4,3 +4,6 @@
 [submodule "hw2"]
 	path = hw2
 	url = git@github.com:DLCV-Fall-2024/dlcv-fall-2024-hw2-GaPFang.git
+[submodule "hw3"]
+	path = hw3
+	url = git@github.com:DLCV-Fall-2024/dlcv-fall-2024-hw3-GaPFang.git
